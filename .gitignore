@@ -2,3 +2,14 @@
 .idea/
 .DS_Store
 *.bak
+
+# docs
+docs
+
+# python venv
+.venv/
+__pycache__/
+*.pyc
+
+# generated test wavs
+sdk/developer/audio/*.wav
